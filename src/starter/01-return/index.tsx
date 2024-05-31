@@ -1,4 +1,6 @@
 function Component() {
+  return null;
+  return 'string';
   return (
     <div>
       <h2>React & Typescript</h2>
@@ -6,4 +8,5 @@ function Component() {
     </div>
   );
 }
+
 export default Component;
