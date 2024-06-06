@@ -1,4 +1,4 @@
-import Component from './starter/08-fetch-data';
+import Component from './starter/10-tasks';
 
 function App() {
   return (
